@@ -24,7 +24,7 @@ JS
 
  - Validar paso a paso hacer uso de console.log() y la herramienta de desarrollador - 
 
-en este caso es importante utilizar los addEventListener para cada clases
+en este caso es importante utilizar los addEventListener para cada clase
 
 Utilizar el setTimeOut para el asicronismo
 
